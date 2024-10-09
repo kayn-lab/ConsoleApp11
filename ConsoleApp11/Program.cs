@@ -29,8 +29,8 @@ MusteriManager MusteriManager = new MusteriManager();
 MusteriManager.Ekle(musteri1);
 MusteriManager.Ekle(musteri2);
 
-MusteriManager.Ekle2("İbrahim", "Delibaş", 19);
-MusteriManager.Ekle2("Ahmet", "Delibaş", 49);
+MusteriManager.Ekle2("İbrahim", "......", 19);
+MusteriManager.Ekle2("Ahmet", "........", 49);
 
 
 
