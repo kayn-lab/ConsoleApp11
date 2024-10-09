@@ -5,12 +5,11 @@ using System.Text;
 Musteri musteri1 = new Musteri();
 
 musteri1.Name = "İbrahim";
-musteri1.Surname = "Delibaş";
-musteri1.Old = 19;
+musteri1.Surname = "....."
 
 Musteri musteri2 =  new Musteri();
 musteri2.Name = "Ahmet";
-musteri2.Surname = "Delibaş";
+musteri2.Surname = ".....";
 musteri2.Old = 49;
 
 Musteri[] musteriler = new Musteri[] {musteri1,musteri2};
